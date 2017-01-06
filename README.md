@@ -19,7 +19,7 @@ Sales tax added
 
 Here's a walkthrough of implemented user stories:
 
-GIF created with [GiphyCapcture](http://i.imgur.com/tbB8uEl.gif).
+GIF created with [GiphyCapcture] http://i.imgur.com/tbB8uEl.gif 
 
 
     Copyright 2016 Alex Sumak
