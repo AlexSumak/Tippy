@@ -8,18 +8,18 @@ Time spent: 6-8 hours
 
 The following **required** functionality is complete:
 
-User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-Settings page to change the default tip percentage.
+*User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+*Settings page to change the default tip percentage.
 
 The following **additional** features are implemented:
 
-User can pick numbers of people and the total amount will be divided by the number of people 
-which will give us amounth for each person 
-Sales tax added 
+*User can pick numbers of people and the total amount will be divided by the number of people 
+ which will give us amounth for each person 
+*Sales tax added 
 
 Here's a walkthrough of implemented user stories:
 
-GIF created with [GiphyCapcture] http://i.imgur.com/tbB8uEl.gif 
+GIF created with GiphyCapcture http://i.imgur.com/tbB8uEl.gif 
 
 
     Copyright 2016 Alex Sumak
